@@ -42,7 +42,7 @@ Type/prompt in the interface window, your program description. The coding agent 
 
 - CUDA-enabled PyTorch
 
-- `Transformers `(Hugging Face): Specifically optimized to handle the Qwen2.5
+- `Transformers `(Hugging Face): Specifically optimized to handle Qwen2.5-Coder-7B-Instruct
 
 - `accelerate`
 
