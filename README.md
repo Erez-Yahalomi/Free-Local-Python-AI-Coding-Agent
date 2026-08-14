@@ -58,9 +58,11 @@ coding agent.py
 
 On first run the the agent loads the Qwen coding model locally.
 
-Created by Erez-Yahalomi ארז-יהלומי
+---------------------------------------------------------------------
+  
+ A private, free AI coding assistant running on your own GPU. 
 
-**A private, free AI coding assistant running on your own GPU.**
+ Software Created by Erez-Yahalomi ארז-יהלומי
 
 
  
