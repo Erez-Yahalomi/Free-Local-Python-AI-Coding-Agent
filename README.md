@@ -53,7 +53,7 @@ Type/prompt in the interface window, your program description. The coding agent 
 ```
 python 
 
-coding agent.py
+AI coding agent.py
 
 
 On first run the the agent loads the Qwen coding model locally.
