@@ -1,7 +1,7 @@
 # 🖥️ Local Coding Agent
 
 #  A free, fully local AI coding agent platform generate Python code from natural-language instructions directly on your own computer.   
-Powered by Qwen2.5-Coder-7B-Instruct. 
+Powered by Qwen2.5-Coder-7B. 
 
 ## ✨ Highlights
 
