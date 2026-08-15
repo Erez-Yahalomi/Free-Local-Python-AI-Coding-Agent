@@ -5,7 +5,7 @@ Powered by Qwen2.5-Coder-7B.
 
 ## ✨ Highlights
 
-- 🆓 **Free to use** — no costs, no OpenAI/API tokens or cloud inference charges
+- 🆓 **Free to use** — no costs, no LLM/API tokens or cloud inference charges
 
 - 🔒 **Local and Private** — your prompts and generated code are made and stayed on your machine
 
